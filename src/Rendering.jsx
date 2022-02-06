@@ -5,7 +5,7 @@ class Rendering extends Component {
     constructor(props){
         super(props);
         this.state ={
-            active: false,
+            active: "Home",
         }
     }
     render() {

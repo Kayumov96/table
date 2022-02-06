@@ -1,0 +1,52 @@
+
+.login{
+    width: 40%;
+    height: 60%;
+    margin: auto;
+    display: block;
+    transition: all 1s;
+    background-color: rgb(183, 183, 204);
+    padding: 20px;
+    border-radius: 5px;
+    background-image: url("./ph.jpeg");
+    background-size: cover;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+    -moz-box-shadow: rgba(0, 0, 0 , 0.3) 0 1px 3px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+}
+.log{
+    position: absolute;
+    left: 28%;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+    -moz-box-shadow: rgba(0, 0, 0 , 0.3) 0 1px 3px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+
+}
+.inpt{
+    width: 80%;
+    margin-left: 8%;
+    margin-top: 2%;
+    border-radius: 5px;
+    border: none; 
+}
+.loginPage{
+    width: 60%;
+    height: 400px;
+    border-radius: 5px;
+    margin: auto;
+    background-image: url("./ph.jpeg");
+    background-size: cover;
+    transition: all 0.8s;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+    -moz-box-shadow: rgba(0, 0, 0 , 0.3) 0 1px 3px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
+}
+.navbar{
+    display: flex;
+}
+.link{
+    margin: auto;
+}
+.active{
+    color:beige;
+}
